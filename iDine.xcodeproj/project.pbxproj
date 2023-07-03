@@ -19,6 +19,7 @@
 		810D2A552A52EE4C00715963 /* itemDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 810D2A542A52EE4C00715963 /* itemDetail.swift */; };
 		810D2A572A52F64D00715963 /* OrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 810D2A562A52F64D00715963 /* OrderView.swift */; };
 		810D2A592A52F77700715963 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 810D2A582A52F77700715963 /* MainView.swift */; };
+		810D2A5B2A52FAD500715963 /* CheckoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 810D2A5A2A52FAD500715963 /* CheckoutView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		810D2A542A52EE4C00715963 /* itemDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = itemDetail.swift; sourceTree = "<group>"; };
 		810D2A562A52F64D00715963 /* OrderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderView.swift; sourceTree = "<group>"; };
 		810D2A582A52F77700715963 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		810D2A5A2A52FAD500715963 /* CheckoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckoutView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +80,7 @@
 				810D2A522A52E84E00715963 /* ItemRow.swift */,
 				810D2A542A52EE4C00715963 /* itemDetail.swift */,
 				810D2A562A52F64D00715963 /* OrderView.swift */,
+				810D2A5A2A52FAD500715963 /* CheckoutView.swift */,
 				810D2A582A52F77700715963 /* MainView.swift */,
 			);
 			path = iDine;
@@ -164,6 +167,7 @@
 			files = (
 				810D2A3F2A52E35400715963 /* ContentView.swift in Sources */,
 				810D2A592A52F77700715963 /* MainView.swift in Sources */,
+				810D2A5B2A52FAD500715963 /* CheckoutView.swift in Sources */,
 				810D2A572A52F64D00715963 /* OrderView.swift in Sources */,
 				810D2A3D2A52E35400715963 /* iDineApp.swift in Sources */,
 				810D2A4E2A52E40F00715963 /* Order.swift in Sources */,
