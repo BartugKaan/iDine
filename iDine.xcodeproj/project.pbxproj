@@ -16,6 +16,7 @@
 		810D2A4F2A52E40F00715963 /* Menu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 810D2A4D2A52E40F00715963 /* Menu.swift */; };
 		810D2A512A52E43000715963 /* menu.json in Resources */ = {isa = PBXBuildFile; fileRef = 810D2A502A52E43000715963 /* menu.json */; };
 		810D2A532A52E84E00715963 /* ItemRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 810D2A522A52E84E00715963 /* ItemRow.swift */; };
+		810D2A552A52EE4C00715963 /* itemDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 810D2A542A52EE4C00715963 /* itemDetail.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		810D2A4D2A52E40F00715963 /* Menu.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Menu.swift; sourceTree = "<group>"; };
 		810D2A502A52E43000715963 /* menu.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = menu.json; sourceTree = "<group>"; };
 		810D2A522A52E84E00715963 /* ItemRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemRow.swift; sourceTree = "<group>"; };
+		810D2A542A52EE4C00715963 /* itemDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = itemDetail.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +72,7 @@
 				810D2A402A52E35500715963 /* Assets.xcassets */,
 				810D2A422A52E35500715963 /* Preview Content */,
 				810D2A522A52E84E00715963 /* ItemRow.swift */,
+				810D2A542A52EE4C00715963 /* itemDetail.swift */,
 			);
 			path = iDine;
 			sourceTree = "<group>";
@@ -157,6 +160,7 @@
 				810D2A3D2A52E35400715963 /* iDineApp.swift in Sources */,
 				810D2A4E2A52E40F00715963 /* Order.swift in Sources */,
 				810D2A532A52E84E00715963 /* ItemRow.swift in Sources */,
+				810D2A552A52EE4C00715963 /* itemDetail.swift in Sources */,
 				810D2A4B2A52E3E500715963 /* Helper.swift in Sources */,
 				810D2A4F2A52E40F00715963 /* Menu.swift in Sources */,
 			);
